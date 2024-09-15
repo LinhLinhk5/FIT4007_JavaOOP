@@ -5,5 +5,7 @@ public class Main {
             sum += i;
         }
         System.out.println("tong cac so chia het cho 7 tư 1 den 100 la : " +sum);
+        System.out.println("xin chào các bạn");
     }
+
 }
